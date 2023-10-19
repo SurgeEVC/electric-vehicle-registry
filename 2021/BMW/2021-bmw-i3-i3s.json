@@ -1,0 +1,36 @@
+{
+    "make": "BMW",
+    "model": "i3",
+    "variant": "i3s",
+    "year": 2021,
+    "metadata": {
+        "id": "unique-id-3456",
+        "lastUpdated": "2023-09-18",
+        "contributor": "username101"
+    },
+    "specs": {
+        "bodyType": "Hatchback",
+        "battery": {
+            "type": "Lithium-ion",
+            "capacity_kWh": 42.2
+        },
+        "range_miles": 153,
+        "motor": "Rear Motor",
+        "acceleration_0_60_mph_seconds": 6.8,
+        "topSpeed_mph": 99,
+        "chargeTime_typical_minutes": 360,
+        "connectivity": "BMW iDrive",
+        "autonomyFeatures": "Available Active Cruise Control",
+        "seatingCapacity": 4,
+        "cargoSpace_cubicFeet": 15.1,
+        "weight_lbs": 3046,
+        "towingCapacity_lbs": null
+    },
+    "price": {
+        "base_USD": 44300,
+        "fullyLoaded_USD": 51200
+    },
+    "availability": ["US", "Canada", "Europe"],
+    "officialSite": "https://www.bmwusa.com/vehicles/bmwi/i3.html",
+    "notes": "Premium electric vehicle from BMW with unique design."
+}

@@ -1,0 +1,36 @@
+{
+    "make": "Hyundai",
+    "model": "Kona Electric",
+    "variant": "Limited",
+    "year": 2021,
+    "metadata": {
+        "id": "unique-id-4567",
+        "lastUpdated": "2023-09-18",
+        "contributor": "username202"
+    },
+    "specs": {
+        "bodyType": "SUV",
+        "battery": {
+            "type": "Lithium-ion Polymer",
+            "capacity_kWh": 64
+        },
+        "range_miles": 258,
+        "motor": "Front Motor",
+        "acceleration_0_60_mph_seconds": 7.6,
+        "topSpeed_mph": 104,
+        "chargeTime_typical_minutes": 540,
+        "connectivity": "Hyundai Blue Link",
+        "autonomyFeatures": "Lane Keeping Assist, Blind-Spot Collision Warning",
+        "seatingCapacity": 5,
+        "cargoSpace_cubicFeet": 19.2,
+        "weight_lbs": 3715,
+        "towingCapacity_lbs": null
+    },
+    "price": {
+        "base_USD": 37900,
+        "fullyLoaded_USD": 45100
+    },
+    "availability": ["US", "Canada", "Europe", "Korea"],
+    "officialSite": "https://www.hyundaiusa.com/us/en/vehicles/kona-electric",
+    "notes": "Electric SUV with impressive range."
+}

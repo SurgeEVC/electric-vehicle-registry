@@ -1,0 +1,36 @@
+{
+    "make": "Tesla",
+    "model": "Model S",
+    "variant": "Long Range",
+    "year": 2021,
+    "metadata": {
+        "id": "unique-id-1234",
+        "lastUpdated": "2023-09-16",
+        "contributor": "username123"
+    },
+    "specs": {
+        "bodyType": "Sedan",
+        "battery": {
+            "type": "Lithium-ion",
+            "capacity_kWh": 100
+        },
+        "range_miles": 405,
+        "motor": "Dual Motor",
+        "acceleration_0_60_mph_seconds": 3.1,
+        "topSpeed_mph": 155,
+        "chargeTime_typical_minutes": 75,
+        "connectivity": "Premium Connectivity",
+        "autonomyFeatures": "Autopilot, Available FSD Upgrade",
+        "seatingCapacity": 5,
+        "cargoSpace_cubicFeet": 28,
+        "weight_lbs": 4784,
+        "towingCapacity_lbs": null
+    },
+    "price": {
+        "base_USD": 79990,
+        "fullyLoaded_USD": 94990
+    },
+    "availability": ["US", "Canada", "Europe", "Australia", "China"],
+    "officialSite": "https://www.tesla.com/models",
+    "notes": "Renowned for its performance and long range."
+}

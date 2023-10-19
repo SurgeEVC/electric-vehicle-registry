@@ -1,0 +1,36 @@
+{
+    "make": "Nissan",
+    "model": "Leaf",
+    "variant": "SL Plus",
+    "year": 2021,
+    "metadata": {
+        "id": "unique-id-5678",
+        "lastUpdated": "2023-09-16",
+        "contributor": "username456"
+    },
+    "specs": {
+        "bodyType": "Hatchback",
+        "battery": {
+            "type": "Lithium-ion",
+            "capacity_kWh": 62
+        },
+        "range_miles": 226,
+        "motor": "Front Motor",
+        "acceleration_0_60_mph_seconds": 6.8,
+        "topSpeed_mph": 98,
+        "chargeTime_typical_minutes": 480, 
+        "connectivity": "NissanConnect EV",
+        "autonomyFeatures": "ProPILOT Assist",
+        "seatingCapacity": 5,
+        "cargoSpace_cubicFeet": 23.6,
+        "weight_lbs": 3924,
+        "towingCapacity_lbs": null
+    },
+    "price": {
+        "base_USD": 38400,
+        "fullyLoaded_USD": 44200
+    },
+    "availability": ["US", "Canada", "UK", "Japan", "Europe"],
+    "officialSite": "https://www.nissanusa.com/vehicles/electric-cars/leaf.html",
+    "notes": "One of the earliest and most popular mass-market EVs."
+}

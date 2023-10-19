@@ -1,0 +1,36 @@
+{
+    "make": "Chevrolet",
+    "model": "Bolt EV",
+    "variant": "Premier",
+    "year": 2021,
+    "metadata": {
+        "id": "unique-id-2345",
+        "lastUpdated": "2023-09-17",
+        "contributor": "username789"
+    },
+    "specs": {
+        "bodyType": "Hatchback",
+        "battery": {
+            "type": "Lithium-ion",
+            "capacity_kWh": 66
+        },
+        "range_miles": 259,
+        "motor": "Front Motor",
+        "acceleration_0_60_mph_seconds": 6.5,
+        "topSpeed_mph": 93,
+        "chargeTime_typical_minutes": 700,
+        "connectivity": "Chevrolet Infotainment System",
+        "autonomyFeatures": "Available Lane Keep Assist with Lane Departure Warning",
+        "seatingCapacity": 5,
+        "cargoSpace_cubicFeet": 16.6,
+        "weight_lbs": 3563,
+        "towingCapacity_lbs": null
+    },
+    "price": {
+        "base_USD": 36795,
+        "fullyLoaded_USD": 41895
+    },
+    "availability": ["US", "Canada", "Mexico"],
+    "officialSite": "https://www.chevrolet.com/electric/bolt-ev",
+    "notes": "Affordable and popular electric vehicle from Chevrolet."
+}
