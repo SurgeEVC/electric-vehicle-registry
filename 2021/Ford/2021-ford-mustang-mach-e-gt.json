@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "id": "2021-Ford-Mustang-Mach-E-GT",
+    "lastUpdated": "2023-10-18"
+  },
+  "specifications": {
+    "make": "Ford",
+    "model": "Mustang Mach-E",
+    "variant": "GT",
+    "year": 2021,
+    "bodyType": "SUV",
+    "doors": 4,
+    "seatingCapacity": 5,
+    "motorType": "Permanent Magnet Synchronous",
+    "batteryCapacity": 88,
+    "range": 270,
+    "chargeTime": {
+      "standard": 10,
+      "fast": 0.75
+    },
+    "topSpeed": 124,
+    "acceleration": {
+      "0to60mph": 3.8
+    },
+    "weight": 5060
+  },
+  "tags": ["electric", "suv", "performance", "family"]
+}
